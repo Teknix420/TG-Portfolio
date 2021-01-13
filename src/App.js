@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 // Styling
 import './style.css';
@@ -30,16 +30,10 @@ class App extends Component {
                 {/* Header */}
                 <Header />
                 {/* Routing */}
-                <BrowserRouter>
-                    <Switch>
-                        <Route path='/TG-Portfolio/projects' component={Projects} />
-                        <Route path='/TG-Portfolio/' component={About} />
-                    </Switch>
-                </BrowserRouter>
-
+                <Route exact path='/' component={About} />
+                <Route path='/projects' component={Projects} />
                 {/* Footer */}
                 <Footer />
-
             </div >
         )
     }
