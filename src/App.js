@@ -32,8 +32,8 @@ class App extends Component {
                 {/* Routing */}
                 <BrowserRouter>
                     <Switch>
-                        <Route path='/projects' component={Projects} />
-                        <Route path='/' component={About} />
+                        <Route path='/TG-Portfolio/projects' component={Projects} />
+                        <Route path='/TG-Portfolio/' component={About} />
                     </Switch>
                 </BrowserRouter>
 
