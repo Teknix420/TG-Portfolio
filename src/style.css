@@ -1,0 +1,76 @@
+body > #root > div {
+  height: 100vh;
+}
+
+.card {
+    height: 100%
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url('./components/img/Background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.clickLink {
+    color: blueviolet;
+}
+
+li {
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: grey;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 40px;
+    line-height: 40px;
+}
+
+.footerLink {
+    padding: 5px;
+}
+
+.headerInfo {
+    margin: 15px 0 5px 5px;
+    display: inline-block;
+}
+
+.headerImg {
+    max-height: 200px;
+    float: left;
+    margin: 15px;
+}
+
+.aboutMe{
+    float: left;
+    margin: 15px;
+    padding-bottom: 15px;
+}
+
+.projects {
+    float: left;
+    margin: 15px;
+}
+
+.btn {
+    margin: 5px;
+}

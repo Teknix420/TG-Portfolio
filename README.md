@@ -1,7 +1,4 @@
-# Project
+# React Portfolio
+## By Travis Gray
 
-Building a page aobut me that includes a portfolio to include all of my work
-
-This page will get updated throughout the course of my learning experience here at the Bootcamp
-
-I've created Javascript pages and CSS pages for the Bootstrap content because I feel like it would be more stable if it doesn't have to load content from external websites
+This app is my current Portfolio that has been updated to utilize React. There are currently two pages with a basic overview of my skills in the "_About Me_" section and then some example projects in my "_Projects_" section.
