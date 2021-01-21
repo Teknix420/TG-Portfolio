@@ -68,9 +68,23 @@ footer {
 
 .projects {
     float: left;
-    margin: 15px;
+    margin: 20px 20px 70px 20px;
 }
 
 .btn {
     margin: 5px;
+}
+
+.projectImgContainer {
+    max-width: 300px;
+}
+
+.projectImg {
+    max-height: 240px;
+    max-width: 300px;
+
+}
+
+.projectCardBody {
+    min-height: 200px;
 }
