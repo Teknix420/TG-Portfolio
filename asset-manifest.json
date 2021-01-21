@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TG-Portfolio/static/css/main.e4b233c6.chunk.css",
+    "main.js": "/TG-Portfolio/static/js/main.c5980a95.chunk.js",
+    "main.js.map": "/TG-Portfolio/static/js/main.c5980a95.chunk.js.map",
+    "runtime-main.js": "/TG-Portfolio/static/js/runtime-main.9f35cd3c.js",
+    "runtime-main.js.map": "/TG-Portfolio/static/js/runtime-main.9f35cd3c.js.map",
+    "static/js/2.c75d7bb1.chunk.js": "/TG-Portfolio/static/js/2.c75d7bb1.chunk.js",
+    "static/js/2.c75d7bb1.chunk.js.map": "/TG-Portfolio/static/js/2.c75d7bb1.chunk.js.map",
+    "index.html": "/TG-Portfolio/index.html",
+    "static/css/main.e4b233c6.chunk.css.map": "/TG-Portfolio/static/css/main.e4b233c6.chunk.css.map",
+    "static/js/2.c75d7bb1.chunk.js.LICENSE.txt": "/TG-Portfolio/static/js/2.c75d7bb1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/TG-Portfolio/static/media/Background.b9a92a4f.jpg",
+    "static/media/Budget.c49b15b3.png": "/TG-Portfolio/static/media/Budget.c49b15b3.png",
+    "static/media/CryptoTrainer.72750e4b.png": "/TG-Portfolio/static/media/CryptoTrainer.72750e4b.png",
+    "static/media/Fitness.8ad819cb.png": "/TG-Portfolio/static/media/Fitness.8ad819cb.png",
+    "static/media/GBS.4210e2cd.png": "/TG-Portfolio/static/media/GBS.4210e2cd.png",
+    "static/media/Gmail.d765005c.png": "/TG-Portfolio/static/media/Gmail.d765005c.png",
+    "static/media/Invitr.446565ab.png": "/TG-Portfolio/static/media/Invitr.446565ab.png",
+    "static/media/MSVGB.08149ae5.png": "/TG-Portfolio/static/media/MSVGB.08149ae5.png",
+    "static/media/Me.a81b3ffa.jpg": "/TG-Portfolio/static/media/Me.a81b3ffa.jpg",
+    "static/media/Note.c0d4ef6e.png": "/TG-Portfolio/static/media/Note.c0d4ef6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f35cd3c.js",
+    "static/js/2.c75d7bb1.chunk.js",
+    "static/css/main.e4b233c6.chunk.css",
+    "static/js/main.c5980a95.chunk.js"
+  ]
+}
